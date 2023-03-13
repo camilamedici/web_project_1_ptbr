@@ -18,7 +18,7 @@
   background-color: #f2f2f2;
   display: flex;
   position: relative;
-  flex-wrap: wrap;
+
 }
 
 .logo {
@@ -55,8 +55,7 @@
 }
 
 .header__link {
-  margin-top: 0;
-  padding: 0;
+  top: 0;
   color: #2f80ed;
   text-decoration: none;
   display: flex;
@@ -209,8 +208,6 @@
 .feynman__title {
   width: 775px;
   margin: 0;
-  top: 100px;
-  display: flex;
   z-index: 3;
   line-height: 1.15;
   font-size: 120px;
@@ -236,6 +233,7 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  color: #2f80ed;
 }
 
 .feynman__image {
@@ -327,7 +325,6 @@
 
 .footer__column_content-copyright {
   flex-basis: 711px;
-  display: flex;
   justify-content: space-between;
 }
 
