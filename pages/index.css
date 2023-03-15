@@ -1,5 +1,5 @@
 @import url(../blocks/page/page.css);
-@import url(../rotation/rotation.css);
+@import url(../blocks/rotation/rotation.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/techniques/techniques.css);
@@ -11,4 +11,3 @@
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/footer/footer.css);
-
