@@ -8,6 +8,10 @@
   padding-bottom: 40px;
 }
 
+.logo {
+  z-index: 1;
+}
+
 .footer__columns {
   margin: 0;
   width: 90%;
