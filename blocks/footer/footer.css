@@ -29,7 +29,7 @@
   justify-content: space-between;
 }
 
-.logo__place-footer {
+.logo_place-footer {
   width: 183px;
   height: 35px;
   margin: 0;
@@ -80,7 +80,7 @@
   opacity: 0.5;
 }
 
-.footer_social-icons {
+.footer__social-icons {
   width: 16px;
   height: 16px;
   padding-right: 10px;
