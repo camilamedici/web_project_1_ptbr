@@ -1,0 +1,12 @@
+.header__link {
+  top: 0;
+  color: #2f80ed;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.header__link:hover {
+  transition: .5s ease;
+  opacity: 0.5;
+}
